@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT10\\QT10.csproj": {}
+    "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\qt10\\QT10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT10\\QT10.csproj": {
+    "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\qt10\\QT10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT10\\QT10.csproj",
+        "projectUniqueName": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\qt10\\QT10.csproj",
         "projectName": "QT10",
-        "projectPath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT10\\QT10.csproj",
+        "projectPath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\qt10\\QT10.csproj",
         "packagesPath": "C:\\Users\\j02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT10\\obj\\",
+        "outputPath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\qt10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j02\\AppData\\Roaming\\NuGet\\NuGet.Config",

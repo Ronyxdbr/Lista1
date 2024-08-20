@@ -8,7 +8,7 @@ dificuldade), e então calcule e exiba a pontuação final.
 
 @Lista: 01 - Lógica de Programação
 @Autor: Milton Roney de Oliveira Nobre
-@Data: 19/08/2024
+@Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;
 class Program
