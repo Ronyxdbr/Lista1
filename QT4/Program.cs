@@ -27,7 +27,7 @@ class Program
         Console.Write("Moedas coletadas 5: ");
         int.TryParse(Console.ReadLine(), out m5);
         
-        System.Console.WriteLine($"Nome: {m1 + m2 + m3 + m4 + m5}");
+        System.Console.WriteLine($"Total de moedas: {m1 + m2 + m3 + m4 + m5}");
         
         Console.WriteLine("\nPressione ENTER para fechar");
         Console.ReadLine();

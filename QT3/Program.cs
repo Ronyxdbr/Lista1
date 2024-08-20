@@ -29,7 +29,7 @@ class Program
         Console.Write("Modificador habilidade: ");
         double.TryParse(Console.ReadLine(), out modhab);
         
-        System.Console.WriteLine($"Pontuação final: {(vida - (dano * modequip * modhab)) + reg}");
+        System.Console.WriteLine($"Vida restante: {(vida - (dano * modequip * modhab)) + reg}");
        
         Console.WriteLine("\nPressione ENTER para fechar");
         Console.ReadLine();
