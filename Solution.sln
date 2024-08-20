@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT8", "QT8\QT8.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT9", "QT9\QT9.csproj", "{B9ABFEC1-430F-4852-AE83-8247A5BC560B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT10", "QT10\QT10.csproj", "{6135A86E-3114-4DA5-B3EC-87F79299F584}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,5 +79,9 @@ Global
 		{B9ABFEC1-430F-4852-AE83-8247A5BC560B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9ABFEC1-430F-4852-AE83-8247A5BC560B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9ABFEC1-430F-4852-AE83-8247A5BC560B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6135A86E-3114-4DA5-B3EC-87F79299F584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6135A86E-3114-4DA5-B3EC-87F79299F584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6135A86E-3114-4DA5-B3EC-87F79299F584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6135A86E-3114-4DA5-B3EC-87F79299F584}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
