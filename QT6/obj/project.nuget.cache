@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/y1HkIv+Koc=",
   "success": true,
   "projectFilePath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT6\\QT6.csproj",
+=======
+  "dgSpecHash": "/HkOvtccaC4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\repositorio_git\\lista1\\Lista1\\QT6\\QT6.csproj",
+>>>>>>> fba39a34c74ccac023360fb7cc6e22b44a16d713
   "expectedPackageFiles": [],
   "logs": []
 }

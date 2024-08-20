@@ -1,0 +1,15 @@
+C:\Users\user\Documents\repositorio_git\lista1\Lista1\QT8\obj\Debug\net8.0\QT8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\repositorio_git\lista1\Lista1\QT8\obj\Debug\net8.0\QT8.AssemblyInfoInputs.cache
+C:\Users\user\Documents\repositorio_git\lista1\Lista1\QT8\obj\Debug\net8.0\QT8.AssemblyInfo.cs
+C:\Users\user\Documents\repositorio_git\lista1\Lista1\QT8\obj\Debug\net8.0\QT8.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\repositorio_git\lista1\Lista1\QT8\obj\Debug\net8.0\QT8.sourcelink.json
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\bin\Debug\net8.0\QT8.exe
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\bin\Debug\net8.0\QT8.deps.json
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\bin\Debug\net8.0\QT8.runtimeconfig.json
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\bin\Debug\net8.0\QT8.dll
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\bin\Debug\net8.0\QT8.pdb
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\obj\Debug\net8.0\QT8.dll
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\obj\Debug\net8.0\refint\QT8.dll
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\obj\Debug\net8.0\QT8.pdb
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\obj\Debug\net8.0\QT8.genruntimeconfig.cache
+C:\Users\user\Documents\repositorio_git\lista1\lista1\QT8\obj\Debug\net8.0\ref\QT8.dll

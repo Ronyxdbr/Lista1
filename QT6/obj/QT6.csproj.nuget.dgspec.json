@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT6\\QT6.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT6\\QT6.csproj",
         "packagesPath": "C:\\Users\\j02\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\j02\\Documents\\Milton Roney de Oliveira Nobre\\lógica de programação\\C#\\lista de exercícios 1\\QT6\\obj\\",
+=======
+    "C:\\Users\\user\\Documents\\repositorio_git\\lista1\\Lista1\\QT6\\QT6.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Documents\\repositorio_git\\lista1\\Lista1\\QT6\\QT6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Documents\\repositorio_git\\lista1\\Lista1\\QT6\\QT6.csproj",
+        "projectName": "QT6",
+        "projectPath": "C:\\Users\\user\\Documents\\repositorio_git\\lista1\\Lista1\\QT6\\QT6.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\repositorio_git\\lista1\\Lista1\\QT6\\obj\\",
+>>>>>>> fba39a34c74ccac023360fb7cc6e22b44a16d713
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\j02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
